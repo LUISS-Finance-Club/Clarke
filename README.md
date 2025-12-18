@@ -4,7 +4,7 @@ IT Lead(s):
 - Muhammet Emin Albayram
 - Ege John Işık
 
-Research Lead:
+Google Club Research Lead:
 - Yasemin Ateş
 
 LUISS Finance Club Supervisor:
