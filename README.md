@@ -1,2 +1,10 @@
 # Clarke
+
+IT Lead(s):
+- Muhammet Emin Albayram
+- Ege John Işık
+
+Research Lead:
+- Yasemin Ateş
+  
 AI Agent developed by the GDSC Guido Carli and LUISS Finance Club. Clarke is a publishing agent for WordPress.
